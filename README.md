@@ -3,6 +3,7 @@
 ## 👋 Hi! I'm Front-End Developer & Freelancer
 
 ### 💼 my portfolio site
+
 👉[View Live Website](https://milan0w0.github.io/Portfolio/)
 
 ### 📖 Languages ​​and tools
@@ -19,6 +20,7 @@
 
 ### 🔗 Social media
 
-[![laborX](./assets/social/laborx.png)](https://laborx.com/freelancers/users/id412706)
+[![Kwork](./assets/social/kwork.jpg)](https://kwork.ru/user/bakkermilanowo)
+[![LaborX](./assets/social/laborx.png)](https://laborx.com/freelancers/users/id412706)
 [![Telegram](./assets/social/telegram.png)](https://t.me/Milan0w0)
 [![Gmail](./assets/social/gmail.png)](https://mail.google.com/mail/?view=cm&fs=1&to=bakkermilanowo@gmail.com)
